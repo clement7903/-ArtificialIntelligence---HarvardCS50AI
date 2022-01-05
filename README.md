@@ -1,7 +1,5 @@
 # ArtificialIntelligence---HarvardCS50AI
-Repository of projects/homework from CS50AI free online course by Harvard
-
-This repository and starting codes are found on [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+Repository of projects/homework from CS50AI free online course by Harvard. Starting codes are found on [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
 
 The following projects were submitted:
