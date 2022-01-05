@@ -3,5 +3,5 @@ Repository of projects/homework from CS50AI free online course by Harvard. Start
 
 
 The following projects were submitted:
-1. Project 0 - [Degrees]
+1. Project 0 - [Degrees](https://github.com/clement7903/CS50-AI-TicTacToe)
 2. Project 0 - Tic-Tac-Toe
