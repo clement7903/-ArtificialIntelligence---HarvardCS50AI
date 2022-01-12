@@ -6,3 +6,4 @@ The following projects were submitted:
 1. Project 0 - [Degrees](https://github.com/clement7903/CS50-AI-Degrees)
 2. Project 0 - [Tic-Tac-Toe](https://github.com/clement7903/CS50-AI-TicTacToe)
 3. Project 1 - [Knights](https://github.com/clement7903/CS50-AI-Knights)
+4. Project 1 - [Minesweeper](https://github.com/clement7903/CS50-AI-Minesweeper)
